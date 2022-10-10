@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12086" started-at="2022-10-10T15:46:49 IST" finished-at="2022-10-10T15:47:01 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12086" started-at="2022-10-10T15:46:49 IST" finished-at="2022-10-10T15:47:01 IST">
+      <class name="com.restAssuredEx.APITesting">
+        <test-method status="PASS" signature="getMethod()[pri:0, instance:com.restAssuredEx.APITesting@2d6eabae]" name="getMethod" duration-ms="9741" started-at="2022-10-10T15:46:49 IST" finished-at="2022-10-10T15:46:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethod -->
+        <test-method status="PASS" signature="postMethod()[pri:0, instance:com.restAssuredEx.APITesting@2d6eabae]" name="postMethod" duration-ms="1212" started-at="2022-10-10T15:46:59 IST" finished-at="2022-10-10T15:47:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethod -->
+        <test-method status="PASS" signature="putMethod()[pri:0, instance:com.restAssuredEx.APITesting@2d6eabae]" name="putMethod" duration-ms="994" started-at="2022-10-10T15:47:00 IST" finished-at="2022-10-10T15:47:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putMethod -->
+      </class> <!-- com.restAssuredEx.APITesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
